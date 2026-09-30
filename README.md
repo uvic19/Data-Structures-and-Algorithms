@@ -37,7 +37,7 @@ Keep this tracker updated as you solve problems. It's a great way to visualize y
 | --------------------- | :-------------: |
 | Arrays & Hashing      |        8        |
 | Two Pointers          |        4        |
-| Sliding Window        |        2        |
+| Sliding Window        |        3        |
 | Stack                 |        0        |
 | Binary Search         |        0        |
 | Linked List           |        0        |
@@ -52,6 +52,6 @@ Keep this tracker updated as you solve problems. It's a great way to visualize y
 | Bit Manipulation      |        0        |
 | Math & Geometry       |        0        |
 
-**Total Solved:** 14
+**Total Solved:** 15
 
 ---
